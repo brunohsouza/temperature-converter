@@ -1,5 +1,5 @@
 {
-  "name": "temperature-converter",
+  "name": "@npmbrunohsouza/temperature-converter",
   "version": "1.0.0",
   "description": "Converts a temperature between Fahrenheit and Celsius",
   "homepage": "https://github.com/brunohsouza/temperature-converter#readme",
