@@ -15,6 +15,10 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js",
+    "lint": "semistandard *.js"
+  },
+  "devDependencies": {
+    "semistandard": "17.0.0"
   }
 }
