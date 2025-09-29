@@ -1,0 +1,20 @@
+{
+  "name": "temperature-converter",
+  "version": "1.0.0",
+  "description": "Converts a temperature between Fahrenheit and Celsius",
+  "homepage": "https://github.com/brunohsouza/temperature-converter#readme",
+  "bugs": {
+    "url": "https://github.com/brunohsouza/temperature-converter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunohsouza/temperature-converter.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "Bruno Souza",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
